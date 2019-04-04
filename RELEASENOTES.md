@@ -20,6 +20,10 @@
 -->
 ## Release Notes for AEMM Android ##
 
+### 7.1.4 (April 04, 2019)
+#### Features
+* Includes CordovaLib-release.aar and aemm-lib-release.aar files version 2019.4
+
 ### 7.1.0 (May 25, 2018)
 #### Features
 * Includes AEM Mobile .aar version 2018.6

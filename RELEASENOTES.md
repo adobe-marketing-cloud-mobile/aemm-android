@@ -20,6 +20,10 @@
 -->
 ## Release Notes for AEMM Android ##
 
+### 7.1.4-2 (Aug 2, 2019)
+#### Features
+* Includes aemm-lib-release.aar file version 2019.8
+
 ### 7.1.4-1 (June 22, 2019)
 #### Features
 * Includes aemm-lib-release.aar file version 2019.6
